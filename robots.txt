@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://papuaaaaaaa.github.io//github/sitemap.xml 
+Sitemap: http://papuaaaaaaa.github.io/sitemap.xml 
